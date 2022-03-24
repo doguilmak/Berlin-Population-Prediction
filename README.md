@@ -13,8 +13,10 @@ Dataset is downloaded from [macrotrends](https://www.macrotrends.net/cities/2042
 In this project, as stated in the title, results were obtained through three different methods. These methods are as respectively listed below:
 
  ***1. Linear Regression
+ 
  2. Polynomial Regression
- 3. Long Short-Term Memory (LSTM)***
+ 
+ 4. Long Short-Term Memory (LSTM)***
 
 ## Analysis
 
