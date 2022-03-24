@@ -62,6 +62,8 @@ In this project, as stated in the title, results were obtained through three dif
     <img height="800" src="Plots/Berlin_Polulatin_Pred_Keras.png"> 
 </p>
 
+___
+
 ### Prediction
 
  **1.** Linear regression population prediction in 2035
