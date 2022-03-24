@@ -33,7 +33,7 @@ In this project, as stated in the title, results were obtained through three dif
 ### Correlation Matrix
 
 <p align="center">
-    <img height="600" src="Plots/index.html.png"> 
+    <img height="600" src="Plots/Correlation_Heat_Matrix.png"> 
 </p>
 
 ### Pair Plot
