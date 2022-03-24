@@ -33,37 +33,37 @@ In this project, as stated in the title, results were obtained through three dif
 ### Correlation Matrix
 
 <p align="center">
-    <img height="800" src="Plots/index.html.png"> 
+    <img height="600" src="Plots/index.html.png"> 
 </p>
 
 ### Pair Plot
 
 <p align="center">
-    <img height="800" src="Plots/Pairplot.png"> 
+    <img height="600" src="Plots/Pairplot.png"> 
 </p>
 
 ### Linear Regression 
 
 <p align="center">
-    <img height="800" src="Plots/Linear_Regression.png"> 
+    <img height="600" src="Plots/Linear_Regression.png"> 
 </p>
 
 ### 2nd Order Polynomial Regression
 
 <p align="center">
-    <img height="800" src="Plots/2nd_Order_Polynomial_Regression.png"> 
+    <img height="600" src="Plots/2nd_Order_Polynomial_Regression.png"> 
 </p>
 
 ### 4th Order Polynomial Regression
 
 <p align="center">
-    <img height="800" src="Plots/4th_Order_Polynomial_Regression.png"> 
+    <img height="600" src="Plots/4th_Order_Polynomial_Regression.png"> 
 </p>
 
 ### LSTM
 
 <p align="center">
-    <img height="800" src="Plots/Berlin_Polulatin_Pred_Keras.png"> 
+    <img height="600" src="Plots/Berlin_Polulatin_Pred_Keras.png"> 
 </p>
 
 ___
