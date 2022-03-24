@@ -12,11 +12,11 @@ Dataset is downloaded from [macrotrends](https://www.macrotrends.net/cities/2042
 
 In this project, as stated in the title, results were obtained through three different methods. These methods are as respectively listed below:
 
- ***1. Linear Regression
+ ***1. Linear Regression***
  
- 2. Polynomial Regression
+ ***2. Polynomial Regression***
  
- 4. Long Short-Term Memory (LSTM)***
+ ***3. Long Short-Term Memory (LSTM)***
 
 ## Analysis
 
@@ -25,6 +25,42 @@ In this project, as stated in the title, results were obtained through three dif
 | 0 | date | 86 non-null | int64
 | 1 | Population | 86 non-null | int64
 | 2 | Annual Change | 85 non-null | float64
+
+### Correlation Matrix
+
+<p align="center">
+    <img height="800" src="Plots/index.html.png"> 
+</p>
+
+### Pair Plot
+
+<p align="center">
+    <img height="800" src="Plots/Pairplot.png"> 
+</p>
+
+### Linear Regression 
+
+<p align="center">
+    <img height="800" src="Plots/Linear_Regression.png"> 
+</p>
+
+### 2nd Order Polynomial Regression
+
+<p align="center">
+    <img height="800" src="Plots/2nd_Order_Polynomial_Regression.png"> 
+</p>
+
+### 4th Order Polynomial Regression
+
+<p align="center">
+    <img height="800" src="Plots/4th_Order_Polynomial_Regression.png"> 
+</p>
+
+### LSTM
+
+<p align="center">
+    <img height="800" src="Plots/Berlin_Polulatin_Pred_Keras.png"> 
+</p>
 
 ### Prediction
 
