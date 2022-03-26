@@ -38,11 +38,15 @@ In this project, as stated in the title, results were obtained through three dif
     <img height="600" src="Plots/Correlation_Heat_Matrix.png"> 
 </p>
 
+___
+
 ### Pair Plot
 
 <p align="center">
     <img height="600" src="Plots/Pairplot.png"> 
 </p>
+
+___
 
 ### **1.** Linear Regression 
 
@@ -57,6 +61,8 @@ In this project, as stated in the title, results were obtained through three dif
 **Linear regression R² value:**
  
  > 0.6086274988056017
+
+___
 
 ### **2.** Polynomial Regression
 #### **2.1.** 2nd Order Polynomial Regression
@@ -87,6 +93,8 @@ In this project, as stated in the title, results were obtained through three dif
  
  > 0.825311510724274
 
+___
+
 ### **3.** Long Short-Term Memory (LSTM)
 
 <p align="center">
@@ -96,37 +104,10 @@ In this project, as stated in the title, results were obtained through three dif
 RMS(Difference between actual population prediction and predicted population: 
 
  > 37224.69914068592
+
 ___
 
-### Prediction
-
- **1.** Linear regression population prediction in 2035
- 
- > **3593846.83239776**
-
- **2.** Polinomial regression (degree=2) population prediction in 2035
- 
- > **3727080.32005322**
-
- **3.** Polinomial regression (degree=4) population prediction in 2035
- 
- > **3596823.26672745**
-
-### R² Values
-
- **1.** Linear regression
- 
- > **0.6086274988056017**
-
- **2.** Polinomial regression (degree=2)
- 
- > **0.7346609389955037**
-
- **3.** Polinomial regression (degree=4)
- 
- > **0.825311510724274**
-
-***Process took 8.878643035888672 seconds.***
+**Process took 8.878643035888672 seconds.**
 
 ## How to Run Code
 
