@@ -114,5 +114,5 @@ Before running the code make sure that you have these libraries:
 
 If you have something to say to me please contact me: 
 
- - Twitter: [Doguilmak](https://twitter.com/Doguilmak).  
+ - Twitter: [Doguilmak](https://twitter.com/Doguilmak)
  - Mail address: doguilmak@gmail.com
