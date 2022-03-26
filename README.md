@@ -101,7 +101,7 @@ ___
     <img height="600" src="Plots/Berlin_Polulatin_Pred_Keras.png"> 
 </p>
 
-RMS(Difference between actual population prediction and predicted population: 
+RMS (Difference between actual population prediction and predicted population): 
 
  > 37224.69914068592
 
