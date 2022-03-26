@@ -44,7 +44,7 @@ In this project, as stated in the title, results were obtained through three dif
     <img height="600" src="Plots/Pairplot.png"> 
 </p>
 
-### Linear Regression 
+### **1.** Linear Regression 
 
 <p align="center">
     <img height="600" src="Plots/Linear_Regression.png"> 
@@ -68,6 +68,7 @@ In this project, as stated in the title, results were obtained through three dif
     <img height="600" src="Plots/Berlin_Polulatin_Pred_Keras.png"> 
 </p>
 
+RMS(Difference between actual population and predicted population): 37224.69914068592
 ___
 
 ### Prediction
