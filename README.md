@@ -51,7 +51,7 @@ In this project, as stated in the title, results were obtained through three dif
 </p>
 
 ### **2.** Polynomial Regression
-#### **2.1 ** 2nd Order Polynomial Regression
+#### **2.1** 2nd Order Polynomial Regression
 
 <p align="center">
     <img height="600" src="Plots/2nd_Order_Polynomial_Regression.png"> 
