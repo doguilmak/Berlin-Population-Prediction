@@ -52,7 +52,7 @@ In this project, as stated in the title, results were obtained through three dif
 
 **Linear regression population prediction in 2035:**
 
- > 0.6086274988056017
+ > 3593846.83239776
 
 **Linear regression R² value:**
  
