@@ -50,14 +50,22 @@ In this project, as stated in the title, results were obtained through three dif
     <img height="600" src="Plots/Linear_Regression.png"> 
 </p>
 
+Linear regression population prediction in 2035:
+
+ > **0.6086274988056017**
+
+Linear regression R² Value
+ 
+ > **0.6086274988056017**
+
 ### **2.** Polynomial Regression
-#### **2.1** 2nd Order Polynomial Regression
+#### **2.1.** 2nd Order Polynomial Regression
 
 <p align="center">
     <img height="600" src="Plots/2nd_Order_Polynomial_Regression.png"> 
 </p>
 
-#### **2.2** 4 th Order Polynomial Regression
+#### **2.2.** 4 th Order Polynomial Regression
 
 <p align="center">
     <img height="600" src="Plots/4th_Order_Polynomial_Regression.png"> 
