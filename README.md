@@ -4,6 +4,8 @@
     <img height="800" src="Plots/pic/20191230_112204.jpg"> 
 </p>
 
+Photo: I took it by SM-A520F.
+
 ## Problem Statement
 
 The purpose of this study is to predict the population of Berlin in 2035. Population is a very important variable for city regulations and planning. Estimation processes about the population of Berlin, the capital of Germany, in 2035 were created in line with the regression models. Afterwards, the results were compared over the R² values. In addition, the forecast graph was drawn over the LSTM Network.
