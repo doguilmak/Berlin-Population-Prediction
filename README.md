@@ -54,7 +54,7 @@ In this project, as stated in the title, results were obtained through three dif
 
  > 0.6086274988056017
 
-**Linear regression R² Value**
+**Linear regression R² value:**
  
  > 0.6086274988056017
 
@@ -65,11 +65,27 @@ In this project, as stated in the title, results were obtained through three dif
     <img height="600" src="Plots/2nd_Order_Polynomial_Regression.png"> 
 </p>
 
+**Polinomial regression (degree=2) population prediction in 2035:**
+ 
+ > 3727080.32005322
+
+**Polinomial regression (degree=2) R² value:**
+ 
+ > 0.7346609389955037
+
 #### **2.2.** 4 th Order Polynomial Regression
 
 <p align="center">
     <img height="600" src="Plots/4th_Order_Polynomial_Regression.png"> 
 </p>
+
+**Polinomial regression (degree=4) population prediction in 2035:**
+ 
+ > 3596823.26672745
+
+**Polinomial regression (degree=4) R² value:**
+ 
+ > 0.825311510724274
 
 ### **3.** Long Short-Term Memory (LSTM)
 
@@ -77,7 +93,9 @@ In this project, as stated in the title, results were obtained through three dif
     <img height="600" src="Plots/Berlin_Polulatin_Pred_Keras.png"> 
 </p>
 
-RMS(Difference between actual population and predicted population): 37224.69914068592
+RMS(Difference between actual population prediction and predicted population: 
+
+ > 37224.69914068592
 ___
 
 ### Prediction
